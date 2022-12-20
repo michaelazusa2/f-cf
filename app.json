@@ -2,6 +2,6 @@
   "ads_config": {
     "native_ads": true,
     "open_ads": false,
-    "popup_ads": false
+    "interstitial_ads": false
   }
 }
